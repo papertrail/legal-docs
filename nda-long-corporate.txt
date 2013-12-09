@@ -134,28 +134,11 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   19.3. Gender and Number. Whenever required by the context, the singular shall include the plural, the plural shall include the singular, and the masculine gender shall include the neuter and feminine genders and vice versa.
 
-20. FACSIMILE NOTICES
+20. TIME OF ESSENCE. The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
 
-  20.1. For purposes hereof, delivery of written notice shall be complete upon receipt of facsimile, provided that any facsimile notice shall only be deemed received if (a) the transmission thereof is confirmed, and (b) facsimile notice is followed by written notice, made either by (i) personal delivery thereof, or (ii) via deposit in regular mail, postage prepaid, within two business days following the facsimile notice. Notices shall be addressed to the parties as follows:
+21. RELATIONSHIP CREATED.  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
 
-
-Recipient:    __________________________________
-
-              __________________________________
-
-              __________________________________
-
-              FAX: (____)_____-________
-
-  [AKA]: [Company Name]
-
-  Notice shall be deemed given on the date it is sent via facsimile. Any party may change the address to which to send notices by notifying the other party of such changes in writing in accordance with this paragraph.
-
-21. TIME OF ESSENCE. The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
-
-22. RELATIONSHIP CREATED.  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
-
-23. THIRD PARTY BENEFICIARIES. No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
+22. THIRD PARTY BENEFICIARIES. No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
 
 IN WITNESS WHEREOF, the parties acknowledge that they have read and understand this Agreement in its entirety, have had the opportunity to seek legal counsel if so desired, and have executed this Agreement on the date first written above and effective as of the Effective Date.
 
