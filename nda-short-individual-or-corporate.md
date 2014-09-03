@@ -1,6 +1,6 @@
 CONFIDENTIALITY AGREEMENT
 
-This Confidentiality Agreement (this "Agreement") is made and entered into as of  _______________ by and between [Company Name] ("[AKA]") and ____ _________ residing at ______________________.  (the "Company" or the "Individual"). [AKA] and the Company or the Individual are considering a potential relationship or transaction whereby the parties will be exchanging information in order to evaluate such relationship or transaction.  As a condition to the exchange of such confidential information, the parties hereby agree as follows:
+This Confidentiality Agreement (this "Agreement") is made and entered into as of  _______________ by and between Papertrail Inc. ("Papertrail") and ____ _________ residing at ______________________ (the "Company" or the "Individual"). Papertrail and the Company or the Individual are considering a potential relationship or transaction whereby the parties will be exchanging information in order to evaluate such relationship or transaction.  As a condition to the exchange of such confidential information, the parties hereby agree as follows:
 
 1.  For purposes of this Agreement, "Confidential Information" shall mean information or material proprietary to the party disclosing such information ("Disclosing Party") or designated as Confidential Information by the Disclosing Party which the party receiving such information ("Receiving Party") may obtain knowledge of or access to as a result of the disclosure pursuant to this Agreement.  This Confidential Information includes, but is not limited to, confidential history and background, financial information, forecasts, business plans, marketing information and development plans, customer names, and any other information that the party disclosing may identify as such either in writing or orally.  The Disclosing Party shall use its reasonable best efforts to reduce Confidential Information to written form and formally designate the material as Confidential Information.
 
@@ -14,11 +14,11 @@ This Confidentiality Agreement (this "Agreement") is made and entered into as of
 
 6.  The obligations stated in this Agreement shall expire 36 months after either party presents to the other party in writing, the decision to, or not to engage in a relationship or transaction and shall be binding upon the parties and their respective representatives, successors, and assigns, whether by operation of law or otherwise. Notwithstanding the foregoing, the last sentence of Section 4 shall survive termination or expiration of this Agreement.
 
-7.  This Agreement constitutes the entire understanding and agreement of the parties regarding the subject matter hereof and supersedes any prior oral or written understandings or agreements and may not be modified, except in writing signed by all parties.  This Agreement shall be construed in accordance with and be governed by the laws of the State of [State Juristiction of choice], without reference to [State Juristiction of choice]'s choice of law rules.
+7.  This Agreement constitutes the entire understanding and agreement of the parties regarding the subject matter hereof and supersedes any prior oral or written understandings or agreements and may not be modified, except in writing signed by all parties.  This Agreement shall be construed in accordance with and be governed by the laws of the State of Washington, without reference to the State of Washington's choice of law rules.
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first set forth above.
 
-[Company Name]
+Papertrail
 
 
   Name: ______________________________________________
