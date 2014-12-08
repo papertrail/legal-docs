@@ -96,7 +96,7 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
 5.2.Sec=Employee may disclose Confidential Information as may be required by an order of any court of competent jurisdiction, or as may be legally required by any governmental, regulatory, law enforcement, or other such authority, provided that notice of such disclosure is promptly provided to {P1.Handle}.
 
-5.3. Property of {P1.Handle}: In order to facilitate the Employee's performance of Employee's responsibilities, Employee has and will continue to become aware of items of Confidential Information. Employee acknowledges that Employee is only granted a license to use the Confidential Information of {P1.Handle} in {P1.Handle} Business. Employee agrees that such Confidential Information shall remain {P1.Handle}'s property at all times during and after the term of this Agreement.
+5.3.Sec=Property of {P1.Handle}: In order to facilitate the Employee's performance of Employee's responsibilities, Employee has and will continue to become aware of items of Confidential Information. Employee acknowledges that Employee is only granted a license to use the Confidential Information of {P1.Handle} in {P1.Handle} Business. Employee agrees that such Confidential Information shall remain {P1.Handle}'s property at all times during and after the term of this Agreement.
 
 5.4.Sec=Materials: Any and all Materials, together with all and any copies, shall be immediately returned to {P1.Handle} upon termination or expiration Employee's employment with {P1.Handle}.  Employee agrees that the Materials shall remain {P1.Handle}'s property at all times.
 
