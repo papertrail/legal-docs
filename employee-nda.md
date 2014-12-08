@@ -4,7 +4,7 @@ Heading={P1.Name.Full}<br> EMPLOYEE CONFIDENTIALITY AND NON DISCLOSURE AGREEMENT
 
 1.Ti=RECITALS
 
-1.1.SecEmployee is an "at will" employee of "{P1.Handle}".
+1.1.Sec=Employee is an "at will" employee of "{P1.Handle}".
 
 1.2.Sec=Employee understands that the employment opportunity extended by "{P1.Handle}" to Employee requires that employee understand, agree to and abide by the terms of this Agreement.
 
