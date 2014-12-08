@@ -80,8 +80,6 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
 5.Ti=PROTECTION OF CONFIDENTIAL INFORMATION
 
-5.1.Ti=<b></b>
-
 5.1.0.Sec=Confidential Information:
 
 5.1.1.Sec=Under no circumstances may Employee disclose any Confidential Information to any person without first obtaining the written permission of a {P1.Handle} Executive Officer to insure that the intended recipient is duly authorized to receive the Confidential Information.
@@ -92,7 +90,7 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
 5.1.4.Sec=Employee may disclose Confidential Information to Employee's legal counsel in connection with such counsel's representation of Employee, but only upon reasonable advanced notice to {P1.Handle}.
 
-5.1.={5.1.0-sec}
+5.1.Sec={5.1.0-sec}
 
 5.1.=[01/Agt/Bit/Outline/1-4.Secs]
 
