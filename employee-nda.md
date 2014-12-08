@@ -92,6 +92,7 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
 5.1.4.Sec=Employee may disclose Confidential Information to Employee's legal counsel in connection with such counsel's representation of Employee, but only upon reasonable advanced notice to {P1.Handle}.
 
+5.1.={5.1.0-sec}
 
 5.1.=[01/Agt/Bit/Outline/1-4.Secs]
 
