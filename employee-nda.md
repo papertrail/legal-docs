@@ -62,11 +62,10 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 2.=[01/Agt/Bit/Outline/1-9.Secs]
 
 
-3.Sec=TERM
+3.Ti=TERM
 
 3.sec=This Agreement shall be effective from and including the Effective Date through the end of time and shall not in any way be deemed to expire at the time of any termination of Employee's employment by {P1.Handle}, regardless of circumstances.
 
-3.=[01/Agt/Bit/Outline/1-3.Secs]
 
 4.Ti=EMPLOYEE'S REPRESENTATIONS
 
